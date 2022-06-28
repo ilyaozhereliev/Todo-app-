@@ -1,4 +1,4 @@
-# :money: Just a simple Todo application
+# :pushpin: Just a simple Todo application
 
 ![фвыффывфывфыв (online-video-cutter com)](https://user-images.githubusercontent.com/73027259/176175962-62fa1be3-6a99-4c2c-974a-991ab7c74418.gif)
 
